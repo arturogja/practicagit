@@ -1,0 +1,5 @@
+1 Clonar el proyecto del repositorio (Clone y hacer pull de master)
+2 Cambiar al branch de develop
+3 Añadir tu nombre y correo electronico institucional en el archivo practica.txt
+4 Hacer tu Commit Local
+5 Subir los cambios al repositorio (Hacer Push correspondiente) al branch de develop
