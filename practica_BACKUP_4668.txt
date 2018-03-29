@@ -1,8 +1,11 @@
-﻿Christian Alexis Serrano Carrión - aserrano@fiscaliaveracruz.gob.mx
+<<<<<<< HEAD
+Arturo Guillén Jiménez - aguillen@fiscaliaveracruz.gob.mx
+Christian Alexis Serrano Carrión - aserrano@fiscaliaveracruz.gob.mx
 Wilbert Burgos Morales - wburgos@fiscaliaveracruz.gob.mx
+=======
 ﻿Arturo Guillén Jiménez - aguillen@fiscaliaveracruz.gob.mx
 Eduardo Fernández López - efernandezl@fiscaliaveracruz.gob.mx
 Neftaly Espino Viveros - nviveros@fiscaliaveracruz.gob.mx
 Omar Alfredo Aquino Hernández - oaquino@fiscaliaveracruz.gob.mx
 Emmanuel Hernandez Soto - ehernandezs@fiscaliaveracruz.gob.mx
-
+>>>>>>> 94aa58c18e77b789ed1db7059e3b876d67696ce4
